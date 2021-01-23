@@ -1,3 +1,4 @@
 # cmsc388T-web-template
 
-hey hey
+link to github pages: https://apancorb.github.io/
+terpconect repo: https://terpconnect.umd.edu/~apancorb/apancorb.github.io/
