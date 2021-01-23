@@ -16,5 +16,6 @@ jobs:
             script: |
               cd ..
               cd pub
+              unalias rm 
               rm -rf apancorb.github.io
                
